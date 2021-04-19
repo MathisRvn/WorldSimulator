@@ -1,3 +1,4 @@
-import src.World as World
-import src.Vec3D as Vec3D
-import src.Object as Object
+from src.World import World
+from src.Vec3D import Vec3D
+from src.Object import Object
+from src.addons.GravitationnalForce import GravitationnalForce
