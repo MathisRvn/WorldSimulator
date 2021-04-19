@@ -7,8 +7,8 @@ WorldSimulator does not provide or use any kinds of visual environment. It only 
 
 ## Installation
 
-`git clone https://github.com/MathisRvn/WorldSimulator.git`
-`cd WorldSimulator`
+`git clone https://github.com/MathisRvn/WorldSimulator.git`\
+`cd WorldSimulator`\
 `python3 setup.py install`
 
 ## To learn how it work :
